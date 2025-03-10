@@ -22,7 +22,7 @@ add_action('init', function() {
     }
 });
 
-//Shortcode to Display sorted events in home-page
+/*Shortcode to display sorted events */
 function display_sorted_events() {
     $current_date = current_time('Y-m-d');
     ob_start(); // Start output buffering
@@ -51,12 +51,17 @@ function display_sorted_events() {
         while ($upcoming_events->have_posts()) {
             $upcoming_events->the_post();
             $event_date = get_field('event_date');
+            $event_description = get_field('event_description');
             $event_image = get_the_post_thumbnail_url(get_the_ID(), 'large'); // Get featured image
 
-            echo '<div class="event-item" style="background-image: url(' . esc_url($event_image) . ');">';
+            echo '<div class="event-item">';
+            if ($event_image) {
+                echo '<img class="event-image" src="' . esc_url($event_image) . '" alt="' . esc_attr(get_the_title()) . '">';
+            }
             echo '<div class="event-content">'; // White box inside
             echo '<div class="event-title">' . get_the_title() . '</div>';
             echo '<div class="event-date">Date: ' . esc_html($event_date) . '</div>';
+            echo '<p class="event-description">' . esc_html($event_description) . '</p>';
             echo '<p>' . get_the_excerpt() . '</p>';
             echo '<a href="' . get_permalink() . '" class="event-link">View Details</a>';
             echo '</div>';
@@ -95,12 +100,17 @@ function display_sorted_events() {
         while ($past_events->have_posts()) {
             $past_events->the_post();
             $event_date = get_field('event_date');
+            $event_description = get_field('event_description');
             $event_image = get_the_post_thumbnail_url(get_the_ID(), 'large'); // Get featured image
 
-            echo '<div class="event-item" style="background-image: url(' . esc_url($event_image) . ');">';
+            echo '<div class="event-item">';
+            if ($event_image) {
+                echo '<img class="event-image" src="' . esc_url($event_image) . '" alt="' . esc_attr(get_the_title()) . '">';
+            }
             echo '<div class="event-content">'; // White box inside
             echo '<div class="event-title">' . get_the_title() . '</div>';
             echo '<div class="event-date">Date: ' . esc_html($event_date) . '</div>';
+            echo '<p class="event-description">' . esc_html($event_description) . '</p>';
             echo '<p>' . get_the_excerpt() . '</p>';
             echo '<a href="' . get_permalink() . '" class="event-link">View Details</a>';
             echo '</div>';
@@ -118,6 +128,7 @@ function display_sorted_events() {
     return ob_get_clean(); // Return buffered output
 }
 add_shortcode('sorted_events', 'display_sorted_events');
+
 
 //Contributor KW
 // Handle form submission
