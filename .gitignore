@@ -4,6 +4,7 @@ wp-includes/
 wp-content/cache/
 wp-content/uploads/
 wp-content/upgrade/
+app/public/wp-content/ai1wm-backups/
 
 # Ignore sensitive files
 wp-config.php
