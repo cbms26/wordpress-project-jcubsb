@@ -1,15 +1,33 @@
 <?php
 // Enqueue parent theme styles
 function my_child_theme_enqueue_styles() {
-    // Load parent theme styles
     wp_enqueue_style('parent-style', get_template_directory_uri() . '/style.css');
-    // Load child theme styles
     wp_enqueue_style('child-style', get_stylesheet_uri(), array('parent-style'));
+
+    // Enqueue Bootstrap CSS & JS (if needed)
+    wp_enqueue_style('bootstrap-css', 'https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css');
+    wp_enqueue_script('bootstrap-js', 'https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js', array(), false, true);
 
     // Enqueue custom JavaScript file
     wp_enqueue_script('script-js', get_stylesheet_directory_uri() . '/script.js', array(), false, true);
 }
 add_action('wp_enqueue_scripts', 'my_child_theme_enqueue_styles');
+
+
+// Enable setting my menus from Appearance
+function my_child_theme_menus() {
+    register_nav_menu('primary', __('Primary Menu', 'twentytwentyfive-child'));
+}
+add_action('after_setup_theme', 'my_child_theme_menus');
+
+//footer menus
+function my_child_theme_footer_menus() {
+    register_nav_menus(array(
+        'footer_quick_links' => __('Footer Quick Links', 'twentytwentyfive-child'),
+        'footer_student_board' => __('Footer Student Board', 'twentytwentyfive-child'),
+    ));
+}
+
 
 
 
@@ -168,6 +186,7 @@ function handle_student_registration_form_submission() {
         exit;
     }
 }
+
 
 // Shortcode to display form button and modal
 function display_student_registration_form() {
