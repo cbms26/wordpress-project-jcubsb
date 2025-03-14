@@ -7193,3 +7193,387 @@ Stack trace:
 [11-Mar-2025 01:18:39 UTC] WP_Query is available!
 [11-Mar-2025 01:20:34 UTC] WP_Query is available!
 [11-Mar-2025 01:21:34 UTC] WP_Query is available!
+[11-Mar-2025 01:21:47 UTC] WP_Query is available!
+[11-Mar-2025 01:21:48 UTC] WP_Query is available!
+[11-Mar-2025 01:21:48 UTC] WP_Query is available!
+[11-Mar-2025 01:21:49 UTC] WP_Query is available!
+[11-Mar-2025 01:21:49 UTC] WP_Query is available!
+[11-Mar-2025 01:21:51 UTC] WP_Query is available!
+[11-Mar-2025 01:21:52 UTC] WP_Query is available!
+[11-Mar-2025 01:21:52 UTC] WP_Query is available!
+[11-Mar-2025 02:26:08 UTC] WP_Query is available!
+[11-Mar-2025 02:26:09 UTC] WP_Query is available!
+[11-Mar-2025 02:26:11 UTC] WP_Query is available!
+[11-Mar-2025 02:26:13 UTC] WP_Query is available!
+[11-Mar-2025 02:26:35 UTC] WP_Query is available!
+[11-Mar-2025 02:26:36 UTC] WP_Query is available!
+[11-Mar-2025 02:26:36 UTC] WP_Query is available!
+[11-Mar-2025 02:26:50 UTC] WP_Query is available!
+[11-Mar-2025 02:26:52 UTC] WP_Query is available!
+[11-Mar-2025 02:26:52 UTC] WP_Query is available!
+[11-Mar-2025 02:26:52 UTC] WP_Query is available!
+[11-Mar-2025 02:26:53 UTC] WP_Query is available!
+[11-Mar-2025 02:26:53 UTC] WP_Query is available!
+[11-Mar-2025 02:26:55 UTC] WP_Query is available!
+[11-Mar-2025 02:26:55 UTC] WP_Query is available!
+[11-Mar-2025 02:27:05 UTC] WP_Query is available!
+[11-Mar-2025 02:30:04 UTC] WP_Query is available!
+[11-Mar-2025 02:30:05 UTC] WP_Query is available!
+[11-Mar-2025 02:30:05 UTC] WP_Query is available!
+[11-Mar-2025 02:41:46 UTC] WP_Query is available!
+[11-Mar-2025 02:41:46 UTC] WP_Query is available!
+[11-Mar-2025 02:41:47 UTC] WP_Query is available!
+[11-Mar-2025 02:41:47 UTC] WP_Query is available!
+[11-Mar-2025 02:43:52 UTC] WP_Query is available!
+[11-Mar-2025 02:43:54 UTC] WP_Query is available!
+[11-Mar-2025 02:43:54 UTC] WP_Query is available!
+[11-Mar-2025 02:45:19 UTC] WP_Query is available!
+[11-Mar-2025 02:45:20 UTC] WP_Query is available!
+[11-Mar-2025 02:45:20 UTC] WP_Query is available!
+[11-Mar-2025 02:46:24 UTC] WP_Query is available!
+[11-Mar-2025 02:46:25 UTC] WP_Query is available!
+[11-Mar-2025 02:46:25 UTC] WP_Query is available!
+[11-Mar-2025 02:47:21 UTC] WP_Query is available!
+[11-Mar-2025 02:47:22 UTC] WP_Query is available!
+[11-Mar-2025 02:47:22 UTC] WP_Query is available!
+[11-Mar-2025 02:47:54 UTC] WP_Query is available!
+[11-Mar-2025 02:47:54 UTC] WP_Query is available!
+[11-Mar-2025 02:47:54 UTC] WP_Query is available!
+[11-Mar-2025 02:48:09 UTC] WP_Query is available!
+[11-Mar-2025 02:48:10 UTC] WP_Query is available!
+[11-Mar-2025 02:48:10 UTC] WP_Query is available!
+[14-Mar-2025 00:46:14 UTC] WP_Query is available!
+[14-Mar-2025 00:54:14 UTC] PHP Warning:  require_once(/tmp/wordpress-tests-lib/includes/functions.php): Failed to open stream: No such file or directory in C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\tests\bootstrap.php on line 5
+[14-Mar-2025 01:10:06 UTC] WP_Query is available!
+[14-Mar-2025 01:13:18 UTC] PHP Warning:  require_once(C:\Users\ngten\wordpress-tests-lib/includes/functions.php): Failed to open stream: No such file or directory in C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\tests\bootstrap.php on line 10
+[14-Mar-2025 01:13:24 UTC] PHP Warning:  require_once(C:\Users\ngten\wordpress-tests-lib/includes/functions.php): Failed to open stream: No such file or directory in C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\tests\bootstrap.php on line 10
+[14-Mar-2025 01:38:05 UTC] WP_Query is available!
+[14-Mar-2025 01:39:39 UTC] WP_Query is available!
+[14-Mar-2025 01:41:21 UTC] WP_Query is available!
+[14-Mar-2025 01:41:21 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\functions.php on line 156
+[14-Mar-2025 01:41:21 UTC] PHP Warning:  require_once(C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme/wp-config.php): Failed to open stream: No such file or directory in C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\tests\ThemeFunctionsTest.php on line 5
+[14-Mar-2025 01:41:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme/wp-config.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\tests\ThemeFunctionsTest.php:5
+Stack trace:
+#0 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\Util\FileLoader.php(66): include_once()
+#1 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\Util\FileLoader.php(49): PHPUnit\Util\FileLoader::load('C:\\Users\\ngten\\...')
+#2 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\Runner\StandardTestSuiteLoader.php(43): PHPUnit\Util\FileLoader::checkAndLoad('C:\\Users\\ngten\\...')
+#3 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\Runner\BaseTestRunner.php(146): PHPUnit\Runner\StandardTestSuiteLoader->load('C:\\Users\\ngten\\...')
+#4 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\Runner\BaseTestRunner.php(111): PHPUnit\Runner\BaseTestRunner->loadSuiteClass('C:\\Users\\ngten\\...')
+#5 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\TextUI\Command.php(121): PHPUnit\Runner\BaseTestRunner->getTest('C:\\Users\\ngten\\...', Array)
+#6 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\TextUI\Command.php(99): PHPUnit\TextUI\Command->run(Array, true)
+#7 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\phpunit(107): PHPUnit\TextUI\Command::main()
+#8 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\bin\phpunit(122): include('C:\\Users\\ngten\\...')
+#9 {main}
+
+Next PHPUnit\TextUI\RuntimeException: Failed opening required 'C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme/wp-config.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\TextUI\Command.php:101
+Stack trace:
+#0 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\phpunit(107): PHPUnit\TextUI\Command::main()
+#1 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\bin\phpunit(122): include('C:\\Users\\ngten\\...')
+#2 {main}
+  thrown in C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\TextUI\Command.php on line 101
+[14-Mar-2025 01:44:15 UTC] WP_Query is available!
+[14-Mar-2025 01:44:15 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\functions.php on line 156
+[14-Mar-2025 01:44:15 UTC] PHP Warning:  require_once(C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes/functions.php): Failed to open stream: No such file or directory in C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\tests\ThemeFunctionsTest.php on line 6
+[14-Mar-2025 01:44:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes/functions.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\tests\ThemeFunctionsTest.php:6
+Stack trace:
+#0 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\Util\FileLoader.php(66): include_once()
+#1 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\Util\FileLoader.php(49): PHPUnit\Util\FileLoader::load('C:\\Users\\ngten\\...')
+#2 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\Runner\StandardTestSuiteLoader.php(43): PHPUnit\Util\FileLoader::checkAndLoad('C:\\Users\\ngten\\...')
+#3 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\Runner\BaseTestRunner.php(146): PHPUnit\Runner\StandardTestSuiteLoader->load('C:\\Users\\ngten\\...')
+#4 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\Runner\BaseTestRunner.php(111): PHPUnit\Runner\BaseTestRunner->loadSuiteClass('C:\\Users\\ngten\\...')
+#5 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\TextUI\Command.php(121): PHPUnit\Runner\BaseTestRunner->getTest('C:\\Users\\ngten\\...', Array)
+#6 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\TextUI\Command.php(99): PHPUnit\TextUI\Command->run(Array, true)
+#7 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\phpunit(107): PHPUnit\TextUI\Command::main()
+#8 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\bin\phpunit(122): include('C:\\Users\\ngten\\...')
+#9 {main}
+
+Next PHPUnit\TextUI\RuntimeException: Failed opening required 'C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes/functions.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\TextUI\Command.php:101
+Stack trace:
+#0 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\phpunit(107): PHPUnit\TextUI\Command::main()
+#1 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\bin\phpunit(122): include('C:\\Users\\ngten\\...')
+#2 {main}
+  thrown in C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\TextUI\Command.php on line 101
+[14-Mar-2025 01:58:46 UTC] WP_Query is available!
+[14-Mar-2025 01:58:46 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\functions.php on line 156
+[14-Mar-2025 01:58:46 UTC] PHP Warning:  require_once(C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes/functions.php): Failed to open stream: No such file or directory in C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\tests\ThemeFunctionsTest.php on line 6
+[14-Mar-2025 01:58:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes/functions.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\tests\ThemeFunctionsTest.php:6
+Stack trace:
+#0 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\Util\FileLoader.php(66): include_once()
+#1 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\Util\FileLoader.php(49): PHPUnit\Util\FileLoader::load('C:\\Users\\ngten\\...')
+#2 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\Runner\StandardTestSuiteLoader.php(43): PHPUnit\Util\FileLoader::checkAndLoad('C:\\Users\\ngten\\...')
+#3 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\Runner\BaseTestRunner.php(146): PHPUnit\Runner\StandardTestSuiteLoader->load('C:\\Users\\ngten\\...')
+#4 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\Runner\BaseTestRunner.php(111): PHPUnit\Runner\BaseTestRunner->loadSuiteClass('C:\\Users\\ngten\\...')
+#5 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\TextUI\Command.php(121): PHPUnit\Runner\BaseTestRunner->getTest('C:\\Users\\ngten\\...', Array)
+#6 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\TextUI\Command.php(99): PHPUnit\TextUI\Command->run(Array, true)
+#7 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\phpunit(107): PHPUnit\TextUI\Command::main()
+#8 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\bin\phpunit(122): include('C:\\Users\\ngten\\...')
+#9 {main}
+
+Next PHPUnit\TextUI\RuntimeException: Failed opening required 'C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes/functions.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\TextUI\Command.php:101
+Stack trace:
+#0 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\phpunit(107): PHPUnit\TextUI\Command::main()
+#1 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\bin\phpunit(122): include('C:\\Users\\ngten\\...')
+#2 {main}
+  thrown in C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\TextUI\Command.php on line 101
+[14-Mar-2025 01:59:25 UTC] WP_Query is available!
+[14-Mar-2025 01:59:25 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\functions.php on line 156
+[14-Mar-2025 01:59:25 UTC] PHP Warning:  require_once(C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes/functions.php): Failed to open stream: No such file or directory in C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\tests\ThemeFunctionsTest.php on line 6
+[14-Mar-2025 01:59:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes/functions.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\tests\ThemeFunctionsTest.php:6
+Stack trace:
+#0 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\Util\FileLoader.php(66): include_once()
+#1 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\Util\FileLoader.php(49): PHPUnit\Util\FileLoader::load('C:\\Users\\ngten\\...')
+#2 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\Runner\StandardTestSuiteLoader.php(43): PHPUnit\Util\FileLoader::checkAndLoad('C:\\Users\\ngten\\...')
+#3 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\Runner\BaseTestRunner.php(146): PHPUnit\Runner\StandardTestSuiteLoader->load('C:\\Users\\ngten\\...')
+#4 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\Runner\BaseTestRunner.php(111): PHPUnit\Runner\BaseTestRunner->loadSuiteClass('C:\\Users\\ngten\\...')
+#5 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\TextUI\Command.php(121): PHPUnit\Runner\BaseTestRunner->getTest('C:\\Users\\ngten\\...', Array)
+#6 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\TextUI\Command.php(99): PHPUnit\TextUI\Command->run(Array, true)
+#7 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\phpunit(107): PHPUnit\TextUI\Command::main()
+#8 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\bin\phpunit(122): include('C:\\Users\\ngten\\...')
+#9 {main}
+
+Next PHPUnit\TextUI\RuntimeException: Failed opening required 'C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes/functions.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\TextUI\Command.php:101
+Stack trace:
+#0 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\phpunit(107): PHPUnit\TextUI\Command::main()
+#1 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\bin\phpunit(122): include('C:\\Users\\ngten\\...')
+#2 {main}
+  thrown in C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\TextUI\Command.php on line 101
+[14-Mar-2025 02:01:36 UTC] WP_Query is available!
+[14-Mar-2025 02:01:36 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\functions.php on line 156
+[14-Mar-2025 02:01:36 UTC] PHP Warning:  require_once(C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes/functions.php): Failed to open stream: No such file or directory in C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\tests\ThemeFunctionsTest.php on line 6
+[14-Mar-2025 02:01:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes/functions.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\tests\ThemeFunctionsTest.php:6
+Stack trace:
+#0 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\Util\FileLoader.php(66): include_once()
+#1 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\Util\FileLoader.php(49): PHPUnit\Util\FileLoader::load('C:\\Users\\ngten\\...')
+#2 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\Runner\StandardTestSuiteLoader.php(43): PHPUnit\Util\FileLoader::checkAndLoad('C:\\Users\\ngten\\...')
+#3 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\Runner\BaseTestRunner.php(146): PHPUnit\Runner\StandardTestSuiteLoader->load('C:\\Users\\ngten\\...')
+#4 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\Runner\BaseTestRunner.php(111): PHPUnit\Runner\BaseTestRunner->loadSuiteClass('C:\\Users\\ngten\\...')
+#5 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\TextUI\Command.php(121): PHPUnit\Runner\BaseTestRunner->getTest('C:\\Users\\ngten\\...', Array)
+#6 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\TextUI\Command.php(99): PHPUnit\TextUI\Command->run(Array, true)
+#7 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\phpunit(107): PHPUnit\TextUI\Command::main()
+#8 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\bin\phpunit(122): include('C:\\Users\\ngten\\...')
+#9 {main}
+
+Next PHPUnit\TextUI\RuntimeException: Failed opening required 'C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes/functions.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\TextUI\Command.php:101
+Stack trace:
+#0 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\phpunit(107): PHPUnit\TextUI\Command::main()
+#1 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\bin\phpunit(122): include('C:\\Users\\ngten\\...')
+#2 {main}
+  thrown in C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\TextUI\Command.php on line 101
+[14-Mar-2025 02:05:21 UTC] WP_Query is available!
+[14-Mar-2025 02:05:21 UTC] PHP Warning:  Undefined array key "REQUEST_METHOD" in C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\functions.php on line 156
+[14-Mar-2025 02:05:22 UTC] WP_Query is available!
+[14-Mar-2025 02:05:22 UTC] PHP Warning:  require_once(C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes/functions.php): Failed to open stream: No such file or directory in C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\tests\ThemeFunctionsTest.php on line 6
+[14-Mar-2025 02:05:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes/functions.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\tests\ThemeFunctionsTest.php:6
+Stack trace:
+#0 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\Util\FileLoader.php(66): include_once()
+#1 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\Util\FileLoader.php(49): PHPUnit\Util\FileLoader::load('C:\\Users\\ngten\\...')
+#2 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\Runner\StandardTestSuiteLoader.php(43): PHPUnit\Util\FileLoader::checkAndLoad('C:\\Users\\ngten\\...')
+#3 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\Runner\BaseTestRunner.php(146): PHPUnit\Runner\StandardTestSuiteLoader->load('C:\\Users\\ngten\\...')
+#4 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\Runner\BaseTestRunner.php(111): PHPUnit\Runner\BaseTestRunner->loadSuiteClass('C:\\Users\\ngten\\...')
+#5 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\TextUI\Command.php(121): PHPUnit\Runner\BaseTestRunner->getTest('C:\\Users\\ngten\\...', Array)
+#6 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\TextUI\Command.php(99): PHPUnit\TextUI\Command->run(Array, true)
+#7 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\phpunit(107): PHPUnit\TextUI\Command::main()
+#8 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\bin\phpunit(122): include('C:\\Users\\ngten\\...')
+#9 {main}
+
+Next PHPUnit\TextUI\RuntimeException: Failed opening required 'C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes/functions.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\TextUI\Command.php:101
+Stack trace:
+#0 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\phpunit(107): PHPUnit\TextUI\Command::main()
+#1 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\bin\phpunit(122): include('C:\\Users\\ngten\\...')
+#2 {main}
+  thrown in C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\TextUI\Command.php on line 101
+[14-Mar-2025 02:11:00 UTC] WP_Query is available!
+[14-Mar-2025 02:11:00 UTC] PHP Warning:  require_once(C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes/functions.php): Failed to open stream: No such file or directory in C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\tests\ThemeFunctionsTest.php on line 10
+[14-Mar-2025 02:11:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes/functions.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\tests\ThemeFunctionsTest.php:10
+Stack trace:
+#0 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\Util\FileLoader.php(66): include_once()
+#1 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\Util\FileLoader.php(49): PHPUnit\Util\FileLoader::load('C:\\Users\\ngten\\...')
+#2 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\Runner\StandardTestSuiteLoader.php(43): PHPUnit\Util\FileLoader::checkAndLoad('C:\\Users\\ngten\\...')
+#3 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\Runner\BaseTestRunner.php(146): PHPUnit\Runner\StandardTestSuiteLoader->load('C:\\Users\\ngten\\...')
+#4 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\Runner\BaseTestRunner.php(111): PHPUnit\Runner\BaseTestRunner->loadSuiteClass('C:\\Users\\ngten\\...')
+#5 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\TextUI\Command.php(121): PHPUnit\Runner\BaseTestRunner->getTest('C:\\Users\\ngten\\...', Array)
+#6 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\TextUI\Command.php(99): PHPUnit\TextUI\Command->run(Array, true)
+#7 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\phpunit(107): PHPUnit\TextUI\Command::main()
+#8 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\bin\phpunit(122): include('C:\\Users\\ngten\\...')
+#9 {main}
+
+Next PHPUnit\TextUI\RuntimeException: Failed opening required 'C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes/functions.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\TextUI\Command.php:101
+Stack trace:
+#0 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\phpunit(107): PHPUnit\TextUI\Command::main()
+#1 C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\bin\phpunit(122): include('C:\\Users\\ngten\\...')
+#2 {main}
+  thrown in C:\Users\ngten\Local Sites\jcubsb\app\public\wp-content\themes\my-child-theme\vendor\phpunit\phpunit\src\TextUI\Command.php on line 101
+[14-Mar-2025 02:12:42 UTC] WP_Query is available!
+[14-Mar-2025 02:15:42 UTC] WP_Query is available!
+[14-Mar-2025 02:40:42 UTC] WP_Query is available!
+[14-Mar-2025 02:40:43 UTC] WP_Query is available!
+[14-Mar-2025 02:44:07 UTC] WP_Query is available!
+[14-Mar-2025 02:45:12 UTC] WP_Query is available!
+[14-Mar-2025 02:48:28 UTC] WP_Query is available!
+[14-Mar-2025 02:48:28 UTC] Shortcode Output: [sorted_events]
+[14-Mar-2025 02:51:03 UTC] WP_Query is available!
+[14-Mar-2025 02:51:10 UTC] WP_Query is available!
+[14-Mar-2025 02:51:10 UTC] Shortcode Output: <div class="events-section"><h2 class="events-title">Upcoming Events</h2><div class="events-grid"><div class="event-item"><img class="event-image" src="http://jcubsb.local/wp-content/uploads/2025/02/jcub-got-talent-724x1024.png" alt="Laser tag"><div class="event-content"><div class="event-title">Laser tag</div><div class="event-date">Date: 30 June, 2025</div><p class="event-description"></p><a href="http://jcubsb.local/laser-tag/" class="event-link">View Details</a></div></div><div class="event-item"><img class="event-image" src="http://jcubsb.local/wp-content/uploads/2025/02/pic-2-halloween.png" alt="JCU Brisbane Olympics Registration"><div class="event-content"><div class="event-title">JCU Brisbane Olympics Registration</div><div class="event-date">Date: 8 October, 2025</div><p class="event-description"></p><a href="http://jcubsb.local/jcu-brisbane-olympics-registration/" class="event-link">View Details</a></div></div><div class="event-item"><img class="event-image" src="http://jcubsb.local/wp-content/uploads/2025/02/lone-pine-724x1024.png" alt="JCU Graduation Ceremony"><div class="event-content"><div class="event-title">JCU Graduation Ceremony</div><div class="event-date">Date: 20 November, 2025</div><p class="event-description"></p><a href="http://jcubsb.local/jcu-graduation-ceremony/" class="event-link">View Details</a></div></div></div></div>
+[14-Mar-2025 04:36:02 UTC] WP_Query is available!
+[14-Mar-2025 04:36:06 UTC] WP_Query is available!
+[14-Mar-2025 04:36:06 UTC] WP_Query is available!
+[14-Mar-2025 04:36:25 UTC] WP_Query is available!
+[14-Mar-2025 04:36:26 UTC] WP_Query is available!
+[14-Mar-2025 04:36:26 UTC] WP_Query is available!
+[14-Mar-2025 04:36:27 UTC] WP_Query is available!
+[14-Mar-2025 04:36:27 UTC] WP_Query is available!
+[14-Mar-2025 04:36:28 UTC] WP_Query is available!
+[14-Mar-2025 04:36:29 UTC] WP_Query is available!
+[14-Mar-2025 04:36:29 UTC] WP_Query is available!
+[14-Mar-2025 04:36:30 UTC] WP_Query is available!
+[14-Mar-2025 04:36:30 UTC] WP_Query is available!
+[14-Mar-2025 04:36:30 UTC] WP_Query is available!
+[14-Mar-2025 04:36:30 UTC] WP_Query is available!
+[14-Mar-2025 04:36:38 UTC] WP_Query is available!
+[14-Mar-2025 04:36:39 UTC] WP_Query is available!
+[14-Mar-2025 04:36:39 UTC] WP_Query is available!
+[14-Mar-2025 04:36:44 UTC] WP_Query is available!
+[14-Mar-2025 04:36:44 UTC] WP_Query is available!
+[14-Mar-2025 04:36:44 UTC] WP_Query is available!
+[14-Mar-2025 04:36:45 UTC] WP_Query is available!
+[14-Mar-2025 04:36:45 UTC] WP_Query is available!
+[14-Mar-2025 04:36:46 UTC] WP_Query is available!
+[14-Mar-2025 04:36:46 UTC] WP_Query is available!
+[14-Mar-2025 04:36:46 UTC] WP_Query is available!
+[14-Mar-2025 04:36:46 UTC] WP_Query is available!
+[14-Mar-2025 04:36:48 UTC] WP_Query is available!
+[14-Mar-2025 04:36:49 UTC] WP_Query is available!
+[14-Mar-2025 04:36:49 UTC] WP_Query is available!
+[14-Mar-2025 04:36:50 UTC] WP_Query is available!
+[14-Mar-2025 04:36:50 UTC] WP_Query is available!
+[14-Mar-2025 04:36:50 UTC] WP_Query is available!
+[14-Mar-2025 04:36:50 UTC] WP_Query is available!
+[14-Mar-2025 04:36:50 UTC] WP_Query is available!
+[14-Mar-2025 04:36:50 UTC] WP_Query is available!
+[14-Mar-2025 04:36:50 UTC] WP_Query is available!
+[14-Mar-2025 04:36:50 UTC] WP_Query is available!
+[14-Mar-2025 04:36:50 UTC] WP_Query is available!
+[14-Mar-2025 04:36:50 UTC] WP_Query is available!
+[14-Mar-2025 04:36:50 UTC] WP_Query is available!
+[14-Mar-2025 04:36:52 UTC] WP_Query is available!
+[14-Mar-2025 04:36:52 UTC] WP_Query is available!
+[14-Mar-2025 04:36:52 UTC] WP_Query is available!
+[14-Mar-2025 04:36:52 UTC] WP_Query is available!
+[14-Mar-2025 04:36:52 UTC] WP_Query is available!
+[14-Mar-2025 04:36:52 UTC] WP_Query is available!
+[14-Mar-2025 04:36:52 UTC] WP_Query is available!
+[14-Mar-2025 04:36:58 UTC] WP_Query is available!
+[14-Mar-2025 04:36:59 UTC] WP_Query is available!
+[14-Mar-2025 04:36:59 UTC] WP_Query is available!
+[14-Mar-2025 04:37:05 UTC] WP_Query is available!
+[14-Mar-2025 04:37:07 UTC] WP_Query is available!
+[14-Mar-2025 04:37:08 UTC] WP_Query is available!
+[14-Mar-2025 04:37:08 UTC] WP_Query is available!
+[14-Mar-2025 04:37:08 UTC] WP_Query is available!
+[14-Mar-2025 04:37:09 UTC] WP_Query is available!
+[14-Mar-2025 04:37:09 UTC] WP_Query is available!
+[14-Mar-2025 04:37:10 UTC] WP_Query is available!
+[14-Mar-2025 04:37:10 UTC] WP_Query is available!
+[14-Mar-2025 04:37:10 UTC] WP_Query is available!
+[14-Mar-2025 04:37:10 UTC] WP_Query is available!
+[14-Mar-2025 04:37:10 UTC] WP_Query is available!
+[14-Mar-2025 04:37:11 UTC] WP_Query is available!
+[14-Mar-2025 04:37:12 UTC] WP_Query is available!
+[14-Mar-2025 04:37:12 UTC] WP_Query is available!
+[14-Mar-2025 04:37:13 UTC] WP_Query is available!
+[14-Mar-2025 04:37:13 UTC] WP_Query is available!
+[14-Mar-2025 04:37:13 UTC] WP_Query is available!
+[14-Mar-2025 04:37:13 UTC] WP_Query is available!
+[14-Mar-2025 04:37:17 UTC] WP_Query is available!
+[14-Mar-2025 04:37:18 UTC] WP_Query is available!
+[14-Mar-2025 04:37:18 UTC] WP_Query is available!
+[14-Mar-2025 04:37:18 UTC] WP_Query is available!
+[14-Mar-2025 04:37:19 UTC] WP_Query is available!
+[14-Mar-2025 04:37:19 UTC] WP_Query is available!
+[14-Mar-2025 04:37:19 UTC] WP_Query is available!
+[14-Mar-2025 04:37:19 UTC] WP_Query is available!
+[14-Mar-2025 04:47:19 UTC] WP_Query is available!
+[14-Mar-2025 04:47:20 UTC] WP_Query is available!
+[14-Mar-2025 04:47:20 UTC] WP_Query is available!
+[14-Mar-2025 04:47:28 UTC] WP_Query is available!
+[14-Mar-2025 04:49:48 UTC] WP_Query is available!
+[14-Mar-2025 04:59:35 UTC] WP_Query is available!
+[14-Mar-2025 04:59:35 UTC] Shortcode Output: <div class="events-section"><h2 class="events-title">Upcoming Events</h2><div class="events-grid"><div class="event-item"><img class="event-image" src="http://jcubsb.local/wp-content/uploads/2025/02/jcub-got-talent-724x1024.png" alt="Laser tag"><div class="event-content"><div class="event-title">Laser tag</div><div class="event-date">Date: 30 June, 2025</div><p class="event-description"></p><p>Laser tag</p><a href="http://jcubsb.local/laser-tag/" class="event-link">View Details</a></div></div><div class="event-item"><img class="event-image" src="http://jcubsb.local/wp-content/uploads/2025/02/pic-2-halloween.png" alt="JCU Brisbane Olympics Registration"><div class="event-content"><div class="event-title">JCU Brisbane Olympics Registration</div><div class="event-date">Date: 8 October, 2025</div><p class="event-description"></p><p>Invitation to participate in the JCU Brisbane Olympic Games.</p><a href="http://jcubsb.local/jcu-brisbane-olympics-registration/" class="event-link">View Details</a></div></div><div class="event-item"><img class="event-image" src="http://jcubsb.local/wp-content/uploads/2025/02/lone-pine-724x1024.png" alt="JCU Graduation Ceremony"><div class="event-content"><div class="event-title">JCU Graduation Ceremony</div><div class="event-date">Date: 20 November, 2025</div><p class="event-description"></p><p>Invitation to participate in the JCU Brisbane Olympic Games.</p><a href="http://jcubsb.local/jcu-graduation-ceremony/" class="event-link">View Details</a></div></div></div></div><div class="events-section"><h2 class="events-title">Past Events</h2><div class="events-grid"><div class="event-item"><img class="event-image" src="http://jcubsb.local/wp-content/uploads/2025/02/lone-pine-724x1024.png" alt="Hi all"><div class="event-content"><div class="event-title">Hi all</div><div class="event-date">Date: 15 March, 2024</div><p class="event-description"></p><p></p><a href="http://jcubsb.local/hi-all/" class="event-link">View Details</a></div></div><div class="event-item"><img class="event-image" src="http://jcubsb.local/wp-content/uploads/2025/02/chocholoate-revolution-724x1024.png" alt="Volunteers Meetup"><div class="event-content"><div class="event-title">Volunteers Meetup</div><div class="event-date">Date: 23 February, 2024</div><p class="event-description"></p><p>15 Oct</p><a href="http://jcubsb.local/volunteers-meetup/" class="event-link">View Details</a></div></div><div class="event-item"><img class="event-image" src="http://jcubsb.local/wp-content/uploads/2025/02/pic-2-halloween.png" alt="Mothers day"><div class="event-content"><div class="event-title">Mothers day</div><div class="event-date">Date: 8 February, 2024</div><p class="event-description"></p><p>Highjkdfds df df df</p><a href="http://jcubsb.local/mothers-day/" class="event-link">View Details</a></div></div><div class="event-item"><div class="event-content"><div class="event-title">Father DAys</div><div class="event-date">Date: 25 February, 2022</div><p class="event-description"></p><p>dsfasdgasdgasdgasdgasdg</p><a href="http://jcubsb.local/father-days/" class="event-link">View Details</a></div></div></div></div>
+[14-Mar-2025 05:06:54 UTC] WP_Query is available!
+[14-Mar-2025 05:06:55 UTC] WP_Query is available!
+[14-Mar-2025 05:06:55 UTC] WP_Query is available!
+[14-Mar-2025 05:06:55 UTC] WP_Query is available!
+[14-Mar-2025 05:06:56 UTC] WP_Query is available!
+[14-Mar-2025 05:07:55 UTC] WP_Query is available!
+[14-Mar-2025 05:09:56 UTC] WP_Query is available!
+[14-Mar-2025 05:11:57 UTC] WP_Query is available!
+[14-Mar-2025 05:13:58 UTC] WP_Query is available!
+[14-Mar-2025 05:14:59 UTC] WP_Query is available!
+[14-Mar-2025 05:17:00 UTC] WP_Query is available!
+[14-Mar-2025 05:19:01 UTC] WP_Query is available!
+[14-Mar-2025 05:21:02 UTC] WP_Query is available!
+[14-Mar-2025 05:23:03 UTC] WP_Query is available!
+[14-Mar-2025 05:27:16 UTC] WP_Query is available!
+[14-Mar-2025 05:28:16 UTC] WP_Query is available!
+[14-Mar-2025 05:28:25 UTC] WP_Query is available!
+[14-Mar-2025 05:28:26 UTC] WP_Query is available!
+[14-Mar-2025 05:28:26 UTC] WP_Query is available!
+[14-Mar-2025 05:29:08 UTC] WP_Query is available!
+[14-Mar-2025 05:29:10 UTC] WP_Query is available!
+[14-Mar-2025 05:29:10 UTC] WP_Query is available!
+[14-Mar-2025 05:29:10 UTC] WP_Query is available!
+[14-Mar-2025 05:29:10 UTC] WP_Query is available!
+[14-Mar-2025 05:29:10 UTC] WP_Query is available!
+[14-Mar-2025 05:29:11 UTC] WP_Query is available!
+[14-Mar-2025 05:29:11 UTC] WP_Query is available!
+[14-Mar-2025 05:29:11 UTC] WP_Query is available!
+[14-Mar-2025 05:29:11 UTC] WP_Query is available!
+[14-Mar-2025 05:29:11 UTC] WP_Query is available!
+[14-Mar-2025 05:29:11 UTC] WP_Query is available!
+[14-Mar-2025 05:29:11 UTC] WP_Query is available!
+[14-Mar-2025 05:29:11 UTC] WP_Query is available!
+[14-Mar-2025 05:29:11 UTC] WP_Query is available!
+[14-Mar-2025 05:29:11 UTC] WP_Query is available!
+[14-Mar-2025 05:29:11 UTC] WP_Query is available!
+[14-Mar-2025 05:29:11 UTC] WP_Query is available!
+[14-Mar-2025 05:29:11 UTC] WP_Query is available!
+[14-Mar-2025 05:29:12 UTC] WP_Query is available!
+[14-Mar-2025 05:29:12 UTC] WP_Query is available!
+[14-Mar-2025 05:29:12 UTC] WP_Query is available!
+[14-Mar-2025 05:29:12 UTC] WP_Query is available!
+[14-Mar-2025 05:29:12 UTC] WP_Query is available!
+[14-Mar-2025 05:29:12 UTC] WP_Query is available!
+[14-Mar-2025 05:29:12 UTC] WP_Query is available!
+[14-Mar-2025 05:29:12 UTC] WP_Query is available!
+[14-Mar-2025 05:29:12 UTC] WP_Query is available!
+[14-Mar-2025 05:29:12 UTC] WP_Query is available!
+[14-Mar-2025 05:29:12 UTC] WP_Query is available!
+[14-Mar-2025 05:29:12 UTC] WP_Query is available!
+[14-Mar-2025 05:29:13 UTC] WP_Query is available!
+[14-Mar-2025 05:29:13 UTC] WP_Query is available!
+[14-Mar-2025 05:29:13 UTC] WP_Query is available!
+[14-Mar-2025 05:29:13 UTC] WP_Query is available!
+[14-Mar-2025 05:29:13 UTC] WP_Query is available!
+[14-Mar-2025 05:29:14 UTC] WP_Query is available!
+[14-Mar-2025 05:29:14 UTC] WP_Query is available!
+[14-Mar-2025 05:29:14 UTC] WP_Query is available!
+[14-Mar-2025 05:29:14 UTC] WP_Query is available!
+[14-Mar-2025 05:29:14 UTC] WP_Query is available!
+[14-Mar-2025 05:29:14 UTC] WP_Query is available!
+[14-Mar-2025 05:29:14 UTC] WP_Query is available!
+[14-Mar-2025 05:29:14 UTC] WP_Query is available!
+[14-Mar-2025 05:29:14 UTC] WP_Query is available!
+[14-Mar-2025 05:29:15 UTC] WP_Query is available!
+[14-Mar-2025 05:29:15 UTC] WP_Query is available!
+[14-Mar-2025 05:29:15 UTC] WP_Query is available!
+[14-Mar-2025 05:29:15 UTC] WP_Query is available!
+[14-Mar-2025 05:29:15 UTC] WP_Query is available!
+[14-Mar-2025 05:29:16 UTC] WP_Query is available!
+[14-Mar-2025 05:29:16 UTC] WP_Query is available!
+[14-Mar-2025 05:29:16 UTC] WP_Query is available!
+[14-Mar-2025 05:29:16 UTC] WP_Query is available!
+[14-Mar-2025 05:29:17 UTC] WP_Query is available!
+[14-Mar-2025 05:29:17 UTC] WP_Query is available!
+[14-Mar-2025 05:29:19 UTC] WP_Query is available!
+[14-Mar-2025 05:29:20 UTC] WP_Query is available!
+[14-Mar-2025 05:29:20 UTC] WP_Query is available!
