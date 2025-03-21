@@ -6,6 +6,23 @@ wp-content/uploads/
 wp-content/upgrade/
 app/public/wp-content/ai1wm-backups/
 
+
+# Ignore dependency files
+node_modules/
+vendor/
+
+# Ignore local environment settings
+.env
+
+# Ignore log files
+*.log
+
+# Ignore database dumps
+*.sql
+
+# Ignore WordPress configuration file
+wp-config.php
+
 # Ignore sensitive files
 wp-config.php
 .env
