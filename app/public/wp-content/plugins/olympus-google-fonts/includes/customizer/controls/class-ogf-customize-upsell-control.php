@@ -32,7 +32,7 @@ class OGF_Customize_Upsell_Control extends WP_Customize_Control {
 		<div class="ogf-upsell">
 			<h2 class="upsell__title"><?php esc_html_e( 'Upgrade to Fonts Plugin Pro', 'olympus-google-fonts' ); ?></h2>
 			<ul>
-				<li><?php esc_html_e( '✅ Unlock Font Size & Color', 'olympus-google-fonts' ); ?></li>
+				<li><?php esc_html_e( '  Unlock Font Size & Color', 'olympus-google-fonts' ); ?></li>
 				<li><?php esc_html_e( '⚡️ Optimized Font Loading', 'olympus-google-fonts' ); ?></li>
 				<li><?php esc_html_e( '📦 Host Fonts Locally', 'olympus-google-fonts' ); ?></li>
 			</ul>
