@@ -1,0 +1,17 @@
+{
+    "name": "ngten/public",
+    "autoload": {
+        "psr-4": {
+            "Ngten\\Public\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ngawang Tenzin",
+            "email": "ngawang.tenzin1@my.jcu.edu.au"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "9.6"
+    }
+}

@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-  // 🌐 1. Submenu toggle
+  // 1. Submenu toggle
   document
     .querySelectorAll(".wp-block-navigation-item.has-child > a")
     .forEach((item) => {
@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
       });
     });
 
-  // 🍔 2. Hamburger open/close logic
+  // 2. Hamburger open/close logic
   const openBtn = document.querySelector(
     ".wp-block-navigation__responsive-container-open"
   );
@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 });
 
-// 🧠 4. Header scroll behavior
+// 4. Header scroll behavior
 document.addEventListener("scroll", function () {
   const header = document.querySelector(".site-header");
   if (window.scrollY > 50) {

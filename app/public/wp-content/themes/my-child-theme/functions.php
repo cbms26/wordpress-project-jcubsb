@@ -44,18 +44,6 @@ function my_child_theme_menus()
 }
 add_action('after_setup_theme', 'my_child_theme_menus');
 
-// Enable shortcode for Breadcrumb NavXT
-function jcubsb_breadcrumb_shortcode() {
-    if (function_exists('bcn_display')) {
-        ob_start();
-        echo '<div class="breadcrumbs">';
-        bcn_display();
-        echo '</div>';
-        return ob_get_clean();
-    }
-}
-add_shortcode('bcn_display', 'jcubsb_breadcrumb_shortcode');
-
 
 // Register Footer Menus (Display: Footer section)
 function my_child_theme_footer_menus()
@@ -67,14 +55,14 @@ function my_child_theme_footer_menus()
 }
 add_action('after_setup_theme', 'my_child_theme_footer_menus'); //   FIXED: Now this runs!
 
-// Debug: WP_Query availability (for testing WP_Query is missing ot not!)
-add_action('init', function () {
-    if (class_exists('WP_Query')) {
-        error_log('WP_Query is available!');
-    } else {
-        error_log('WP_Query is missing!');
-    }
-});
+// // Debug: WP_Query availability (for testing WP_Query is missing ot not!)
+// add_action('init', function () {
+//     if (class_exists('WP_Query')) {
+//         error_log('WP_Query is available!');
+//     } else {
+//         error_log('WP_Query is missing!');
+//     }
+// });
 
 
 // Sorting events based on its event date 
@@ -316,7 +304,7 @@ function display_student_registration_form() {
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
-                    <form method="POST" action="<?php echo esc_url(home_url($_SERVER['REQUEST_URI'])); ?>">
+                    <form class="event-registration-form" method="POST" action="<?php echo esc_url(home_url($_SERVER['REQUEST_URI'])); ?>">
                         <input type="hidden" name="student_registration_form" value="1">
 
                         <div class="mb-3">
